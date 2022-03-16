@@ -2,7 +2,6 @@
 - 👀 Tenho interesse em C#, Python, Java e entre outras.
 - 🌱 Estou  estudando C#.
 - Foco no desenvolvimento de sistemas e  manuten .
-- Apresendo um pequeno projeto de gestão de fazendo.
 <!---
 Dev-Alaf-Ferreira/Dev-Alaf-Ferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
