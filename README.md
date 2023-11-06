@@ -1,9 +1,6 @@
-- 👋 OI sou @Dev-Alaf-Ferreira
+- 👋 **Olá sou @Dev-Alaf-Ferreira**
 - 👀 Tenho interesse em C#, Python, Java e entre outras.
 - 🌱 Estou  estudando C#.
-- Foco no desenvolvimento de sistemas e  manutenção.
--  Alaf Ferreira 
-**Olá, sou Alaf Ferreira e gosto muito da linguagem de programação C# e estou nessa jornada para acrescentar mais conhecimento**.
 ## 📲 Venha conhecer minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/àlaf-ferreira-do-nascimento-1228111b1)
 [![GitHub](https://img.shields.io/badge/GitHub-100?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Alaf-Ferreira)
