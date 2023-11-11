@@ -20,6 +20,8 @@
 ## 💻 Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Alaf-Ferreira&repo=dio-lab-open-source-treino&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dev-Alaf-Ferreira/dio-lab-open-source-treino)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Alaf-Ferreira&repo=trilha-net-fundamentos-desafio-treino&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dev-Alaf-Ferreira/trilha-net-fundamentos-desafio-treino)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Alaf-Ferreira&repo=trilha-net-fundamentos-desafio-treino&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/https://github.com/Dev-Alaf-Ferreira/trilha-net-explorando-desafio
+)
 ## 🔗 Links Úteis GitHub
 [![GitHub](https://img.shields.io/badge/GitHub_Perfil-100?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ileriayo/markdown-badges)
 [![GitHub](https://img.shields.io/badge/GitHub_Perfil-100?style=for-the-badge&logo=github&logoColor=white)](https://github.com/denvercoder1/github-readme-streak-stats)
