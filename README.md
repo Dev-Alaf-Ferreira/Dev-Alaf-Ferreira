@@ -1,7 +1,7 @@
 # **ÁLAF FERREIRA**
 ## 👋 Sobre mim
 - 👋 **Olá sou Alaf Ferreira**
-- 👀 Tenho interesse em C#, Python, Java e entre outras.
+- 👀 Tenho interesse em C#, Python, Java e entre outras linguagens de programação.
 - 🌱 Estou  estudando .NET.
 ## 📲 Venha conhecer minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/àlaf-ferreira-do-nascimento-1228111b1)
